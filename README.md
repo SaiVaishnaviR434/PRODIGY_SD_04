@@ -1,4 +1,4 @@
-# PRODIGY_SD_01
+# PRODIGY_SD_04
 # Sudoku Solver
 This is a Python-based Sudoku solver that automatically solves Sudoku puzzles using a backtracking algorithm.
 ## Usage
